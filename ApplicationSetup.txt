@@ -1,0 +1,3 @@
+[DEFAULT]{port=4;baudrate=9600;databit=8;stopbit=1;parity=N;BufferSize=10;convert=crs;indicator=default;awal=2;jml=7;notification=n;wbmeter=kg;}
+[NUMERIC]{port=4;baudrate=9600;databit=7;stopbit=1;parity=E;BufferSize=10;convert=crs;indicator=numeric;awal=2;jml=7;notification=n;wbmeter=kg;}
+[SIMULATION]{port=4;baudrate=9600;databit=7;stopbit=1;parity=E;BufferSize=10;convert=crs;indicator=none;awal=2;jml=7;notification=n;wbmeter=kg;}
